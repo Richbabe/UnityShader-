@@ -285,6 +285,8 @@
     <Compile Include="Assets\Scripts\ColorPicker.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Shaders\Chapter14\Chapter14-Hatching.shader" />
+    <None Include="Assets\Shaders\Chapter14\Chapter14-ToonShading.shader" />
     <None Include="Assets\Shaders\Chapter5-SimpleShader.shader" />
     <None Include="Assets\Shaders\Chapter6-BlinnPhong.shader" />
     <None Include="Assets\Shaders\Chapter6-DiffusePixelLevel.shader" />
