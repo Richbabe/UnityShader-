@@ -48,7 +48,7 @@
 
 				normal.z = -0.5;//避免背面扩张后的顶点挡住正面的面片
 
-				pos = pos + float4(normalize(normal), 0) * _Outline;//将顶点沿发现方向扩张
+				pos = pos + float4(normalize(normal), 0) * _Outline;//将顶点沿法线方向扩张
 
 				o.pos = mul(UNITY_MATRIX_P, pos);//将顶点从视角空间转换到裁剪空间
 

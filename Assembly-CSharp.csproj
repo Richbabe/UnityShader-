@@ -56,15 +56,22 @@
      <None Include="Assets\Shaders\Chapter7\Chapter7-RampTexture.shader" />
      <None Include="Assets\Shaders\Chapter7\Chapter7-NormalMapTangentSpace.shader" />
      <None Include="Assets\Shaders\Chapter6-SpecularPixelLevel.shader" />
+     <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaTestBothSided.shader" />
      <None Include="Assets\Shaders\Chapter5-SimpleShader.shader" />
      <None Include="Assets\Shaders\FalseColor.shader" />
+     <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaTest.shader" />
      <None Include="Assets\Shaders\Chapter6-DiffuseVertexLevel.shader" />
+     <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaBlend.shader" />
      <None Include="Assets\Shaders\Chapter6-HalfLambert.shader" />
+     <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaBlendZWrite.shader" />
      <None Include="Assets\Shaders\Chapter6-SpecularVertexLevel.shader" />
      <None Include="Assets\Shaders\Chapter7\Chapter7-NormalMapWorldSpace.shader" />
+     <None Include="Assets\Shaders\Chapter14\Chapter14-Hatching.shader" />
      <None Include="Assets\Shaders\Chapter7\Chapter7-MaskTexture.shader" />
+     <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaBlendBothSided.shader" />
      <None Include="Assets\Shaders\Chapter6-DiffusePixelLevel.shader" />
      <None Include="Assets\Shaders\Chapter6-BlinnPhong.shader" />
+     <None Include="Assets\Shaders\Chapter14\Chapter14-ToonShading.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

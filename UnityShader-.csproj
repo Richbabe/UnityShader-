@@ -304,6 +304,7 @@
     <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaBlendZWrite.shader" />
     <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaTest.shader" />
     <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaTestBothSided.shader" />
+    <None Include="Assets\Shaders\Chapter9\Chapter9-ForwardRendering.shader" />
     <None Include="Assets\Shaders\FalseColor.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
