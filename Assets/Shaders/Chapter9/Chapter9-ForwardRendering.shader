@@ -146,5 +146,5 @@ Shader "Unity Shaders Book/Chapter 9/Chapter9-ForwardRendering" {
 		}
 
 	}
-	FallBack "Diffuse"
+	FallBack "Specular"
 }
