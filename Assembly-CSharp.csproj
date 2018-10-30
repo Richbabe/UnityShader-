@@ -56,11 +56,14 @@
      <None Include="Assets\Shaders\Chapter7\Chapter7-RampTexture.shader" />
      <None Include="Assets\Shaders\Chapter7\Chapter7-NormalMapTangentSpace.shader" />
      <None Include="Assets\Shaders\Chapter6-SpecularPixelLevel.shader" />
+     <None Include="Assets\Shaders\Chapter9\Chapter9-Shadow.shader" />
      <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaTestBothSided.shader" />
      <None Include="Assets\Shaders\Chapter5-SimpleShader.shader" />
+     <None Include="Assets\Shaders\Chapter9\Chapter9-AttenuationAndShadowUseBuildInFunctions.shader" />
      <None Include="Assets\Shaders\FalseColor.shader" />
      <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaTest.shader" />
      <None Include="Assets\Shaders\Chapter6-DiffuseVertexLevel.shader" />
+     <None Include="Assets\Shaders\Chapter9\Chapter9-ForwardRendering.shader" />
      <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaBlend.shader" />
      <None Include="Assets\Shaders\Chapter6-HalfLambert.shader" />
      <None Include="Assets\Shaders\Chapter8\Chapter8-AlphaBlendZWrite.shader" />
