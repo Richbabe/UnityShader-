@@ -283,11 +283,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Chapter12\BrightnessSaturationAndContrast.cs" />
+    <Compile Include="Assets\Scripts\Chapter12\EdgeDetection.cs" />
+    <Compile Include="Assets\Scripts\Chapter12\GaussianBlur.cs" />
     <Compile Include="Assets\Scripts\Chapter12\PostEffectsBase.cs" />
     <Compile Include="Assets\Scripts\ColorPicker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Shaders\Chapter12\Chapter12-BrightnessSaturationAndContrast.shader" />
+    <None Include="Assets\Shaders\Chapter12\Chapter12-EdgeDection.shader" />
+    <None Include="Assets\Shaders\Chapter12\Chapter12-GaussianBlur.shader" />
     <None Include="Assets\Shaders\Chapter14\Chapter14-Hatching.shader" />
     <None Include="Assets\Shaders\Chapter14\Chapter14-ToonShading.shader" />
     <None Include="Assets\Shaders\Chapter5-SimpleShader.shader" />
